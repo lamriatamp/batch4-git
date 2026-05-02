@@ -1,0 +1,5 @@
+console.log('Payment Confirmation Steps')
+console.log('Step 1: Verify Payment Details')
+console.log('Step 2: Process Payment')
+console.log('Step 3: Send Confirmation Email')
+console.log('Payment Confirmation Steps Completed')
