@@ -1,0 +1,1 @@
+console.log("This steps for logical business on product detail page");
